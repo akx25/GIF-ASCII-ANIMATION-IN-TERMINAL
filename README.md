@@ -1,0 +1,2 @@
+# GIF-ASCII-ANIMATION-IN-TERMINAL
+Simple Python script.
